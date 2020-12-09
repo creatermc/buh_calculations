@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
+	<Document uuid="5c7b829c-3a3d-11eb-4398-b42e9905bfa2">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РеализацияУслугПоПереработке" category="Object">
+				<xr:TypeId>5c7b828c-3a3d-11eb-4398-b42e9905bfa2</xr:TypeId>
+				<xr:ValueId>5c7b828d-3a3d-11eb-4398-b42e9905bfa2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РеализацияУслугПоПереработке" category="Ref">
+				<xr:TypeId>5c7b828e-3a3d-11eb-4398-b42e9905bfa2</xr:TypeId>
+				<xr:ValueId>5c7b828f-3a3d-11eb-4398-b42e9905bfa2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РеализацияУслугПоПереработке" category="Selection">
+				<xr:TypeId>5c7b8296-3a3d-11eb-4398-b42e9905bfa2</xr:TypeId>
+				<xr:ValueId>5c7b8297-3a3d-11eb-4398-b42e9905bfa2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РеализацияУслугПоПереработке" category="List">
+				<xr:TypeId>5c7b8298-3a3d-11eb-4398-b42e9905bfa2</xr:TypeId>
+				<xr:ValueId>5c7b8299-3a3d-11eb-4398-b42e9905bfa2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РеализацияУслугПоПереработке" category="Manager">
+				<xr:TypeId>5c7b829a-3a3d-11eb-4398-b42e9905bfa2</xr:TypeId>
+				<xr:ValueId>5c7b829b-3a3d-11eb-4398-b42e9905bfa2</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>РеализацияУслугПоПереработке</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>afb8c492-306e-4c87-b79d-d3589cc07e01</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаДокумента</Form>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>
