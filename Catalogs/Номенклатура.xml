@@ -70,6 +70,18 @@
 					</Type>
 				</Properties>
 			</Attribute>
+			<Attribute uuid="a392bf98-3ec3-11eb-2089-b42e9905bfa2">
+				<InternalInfo/>
+				<Properties>
+					<Name>Услуга</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>dc5c1d2a-e52c-4ca8-b01f-0c7d85486d44</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:boolean</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
 		</ChildObjects>
 	</Catalog>
 </MetaDataObject>

@@ -21,6 +21,25 @@
 			<ObjectBelonging>Adopted</ObjectBelonging>
 			<ExtendedConfigurationObject>75b1cd3f-46aa-469f-ba47-a62a90494e6e</ExtendedConfigurationObject>
 		</Properties>
-		<ChildObjects/>
+		<ChildObjects>
+			<EnumValue uuid="2ca421d6-3f8d-11eb-d287-b42e9905bfa2">
+				<InternalInfo/>
+				<Properties>
+					<Name>ОтчетОПродажах</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>17ee418c-b49d-4dac-bd64-7bdb3e8c67dc</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="2e0bb03e-3f8d-11eb-d287-b42e9905bfa2">
+				<InternalInfo/>
+				<Properties>
+					<Name>ОтчетОЗакупках</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>a0d2483a-f7c0-461a-8d2a-f03fc5c76ef1</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
 	</Enum>
 </MetaDataObject>

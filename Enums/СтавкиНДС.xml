@@ -21,6 +21,61 @@
 			<ObjectBelonging>Adopted</ObjectBelonging>
 			<ExtendedConfigurationObject>bb44a57a-ce46-4995-a057-b7b6c4ccc2e5</ExtendedConfigurationObject>
 		</Properties>
-		<ChildObjects/>
+		<ChildObjects>
+			<EnumValue uuid="1e361b24-3ec3-11eb-2089-b42e9905bfa2">
+				<InternalInfo/>
+				<Properties>
+					<Name>НДС18</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>ca0cf7c1-ce04-4fe1-9fe5-0f0e1099a0ff</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="1f99aeb8-3ec3-11eb-2089-b42e9905bfa2">
+				<InternalInfo/>
+				<Properties>
+					<Name>НДС18_118</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>76f269ef-8d75-4355-955b-0d83af4b6513</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="2158cdd8-3ec3-11eb-2089-b42e9905bfa2">
+				<InternalInfo/>
+				<Properties>
+					<Name>НДС20</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>45974ccb-45ed-4235-b8ff-abc37bb5c45b</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="22a38bba-3ec3-11eb-2089-b42e9905bfa2">
+				<InternalInfo/>
+				<Properties>
+					<Name>НДС20_120</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>6cf8ca3a-63dd-4385-ba30-38011e461f36</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="40dac3dc-3f81-11eb-d287-b42e9905bfa2">
+				<InternalInfo/>
+				<Properties>
+					<Name>БезНДС</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>df613792-69af-43d1-ad77-47226fbc178c</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="42642f5e-3f81-11eb-d287-b42e9905bfa2">
+				<InternalInfo/>
+				<Properties>
+					<Name>НДС0</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>92f1bd28-d028-4c77-8678-600da9b8a9a5</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
 	</Enum>
 </MetaDataObject>

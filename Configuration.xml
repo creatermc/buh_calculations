@@ -65,13 +65,28 @@
 			<StyleItem>ФонУправляющегоПоля</StyleItem>
 			<StyleItem>СодержаниеУслугиШрифт</StyleItem>
 			<StyleItem>ИтогиФонГруппы</StyleItem>
+			<StyleItem>БыстрыеОтборыФонГруппы</StyleItem>
+			<StyleItem>ЦветФонаНекорректногоКонтрагентаВДокументе</StyleItem>
+			<StyleItem>РамкаСеткиТаблицы</StyleItem>
+			<StyleItem>ДосьеГиперссылкаЦвет</StyleItem>
 			<CommonPicture>СостоянияДокумента</CommonPicture>
 			<CommonPicture>Отчеты</CommonPicture>
 			<CommonPicture>ЗаполнитьФорму</CommonPicture>
 			<Role>РасшКалькОсновнаяРоль</Role>
+			<CommonModule>УправлениеПечатьюПереопределяемый</CommonModule>
 			<DefinedType>ФизическоеЛицо</DefinedType>
 			<CommonCommand>ЗаведениеКалькуляции</CommonCommand>
-			<CommonForm>ФормаЗаведениеКалькуляции</CommonForm>
+			<CommonCommand>ДополнительныеСведенияКоманднаяПанель</CommonCommand>
+			<CommonCommand>ФискальныеОперацииПоДокументу</CommonCommand>
+			<CommonCommand>ПоказатьДвиженияДокумента</CommonCommand>
+			<CommonCommand>ИсторияИзменений</CommonCommand>
+			<CommonCommand>ПрисоединенныеФайлыБП</CommonCommand>
+			<CommonCommand>СвязанныеДокументы</CommonCommand>
+			<CommonCommand>ПечатьЧека</CommonCommand>
+			<CommonCommand>ОтправитьПоЭлектроннойПочте</CommonCommand>
+			<CommandGroup>Печать</CommandGroup>
+			<CommonForm>ФормаВыбораАктов</CommonForm>
+			<CommonForm>ФормаВыбораОтчетовКомитента</CommonForm>
 			<Catalog>Организации</Catalog>
 			<Catalog>ПодразделенияОрганизаций</Catalog>
 			<Catalog>Номенклатура</Catalog>
@@ -80,17 +95,21 @@
 			<Catalog>Валюты</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Пользователи</Catalog>
-			<Document>ОтчетКомитентуОПродажах</Document>
-			<Document>ПоступлениеТоваровУслуг</Document>
+			<Catalog>НоменклатурныеГруппы</Catalog>
+			<Catalog>СпецификацииНоменклатуры</Catalog>
 			<Document>Калькуляция</Document>
+			<Document>СчетНаОплатуПокупателю</Document>
 			<Document>РеализацияТоваровУслуг</Document>
-			<Document>РеализацияУслугПоПереработке</Document>
+			<Document>ОтчетКомитентуОПродажах</Document>
 			<Enum>ВидыОперацийОтчетКомитентуОПродажах</Enum>
 			<Enum>ВидыОперацийПоступлениеТоваровУслуг</Enum>
 			<Enum>СпособыУстановкиКурсаВалюты</Enum>
 			<Enum>ЮридическоеФизическоеЛицо</Enum>
 			<Enum>СтавкиНДС</Enum>
 			<Enum>ВидыДоговоровКонтрагентов</Enum>
+			<Enum>СпособыРасчетаКомиссионногоВознаграждения</Enum>
+			<ChartOfCharacteristicTypes>ВидыСубконтоХозрасчетные</ChartOfCharacteristicTypes>
+			<ChartOfAccounts>Хозрасчетный</ChartOfAccounts>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

@@ -7,9 +7,7 @@
 			<Comment/>
 			<ObjectBelonging>Adopted</ObjectBelonging>
 			<ExtendedConfigurationObject>2885099a-00f4-481b-8469-faee8a208e7c</ExtendedConfigurationObject>
-			<Content>
-				<xr:Item xsi:type="xr:MDObjectRef">Document.Калькуляция</xr:Item>
-			</Content>
+			<Content/>
 		</Properties>
 		<ChildObjects>
 			<Subsystem>ПродажиГлавное</Subsystem>

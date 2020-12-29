@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
+	<Enum uuid="4a2d844d-3ec2-11eb-2089-b42e9905bfa2">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.СпособыРасчетаКомиссионногоВознаграждения" category="Ref">
+				<xr:TypeId>4a2d843e-3ec2-11eb-2089-b42e9905bfa2</xr:TypeId>
+				<xr:ValueId>4a2d8448-3ec2-11eb-2089-b42e9905bfa2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.СпособыРасчетаКомиссионногоВознаграждения" category="Manager">
+				<xr:TypeId>4a2d844b-3ec2-11eb-2089-b42e9905bfa2</xr:TypeId>
+				<xr:ValueId>4a2d844c-3ec2-11eb-2089-b42e9905bfa2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.СпособыРасчетаКомиссионногоВознаграждения" category="List">
+				<xr:TypeId>4a2d8449-3ec2-11eb-2089-b42e9905bfa2</xr:TypeId>
+				<xr:ValueId>4a2d844a-3ec2-11eb-2089-b42e9905bfa2</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>СпособыРасчетаКомиссионногоВознаграждения</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>979a72c1-a77f-44c3-8738-9fe0a6f8d3f7</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="87209d7c-3ec2-11eb-2089-b42e9905bfa2">
+				<InternalInfo/>
+				<Properties>
+					<Name>НеРассчитывается</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>efadc010-dc62-4605-acd5-97bcf31860ef</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="47febd60-49e7-11eb-8e93-b42e9905bfa2">
+				<InternalInfo/>
+				<Properties>
+					<Name>ПроцентОтРазностиСуммПродажиИПоступления</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>6a64b9d7-bcb7-461a-bd4a-977a9a4862b4</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="496babcc-49e7-11eb-8e93-b42e9905bfa2">
+				<InternalInfo/>
+				<Properties>
+					<Name>ПроцентОтСуммыПродажи</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>cd1cf06f-ebba-411b-af60-023c6f0002e1</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>
